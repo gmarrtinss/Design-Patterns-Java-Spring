@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a0e9cdd-22da-4ea7-aa08-859b2a8d3af6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab-padroes-projetos.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Facade/Facade.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Singleton/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Singleton/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Singleton/SingletonLazyHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Strategy/Comportamento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Strategy/ComportamentoDefensivo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Strategy/ComportamentoNormal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Strategy/ComportamentodeAtaque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Strategy/Robo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/subsistema1/crm/CrmService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dio/subsistema2/cep/CepAPI.java" afterDir="false" />
-    </list>
+    <list default="true" id="0a0e9cdd-22da-4ea7-aa08-859b2a8d3af6" name="Changes" comment="Primeiro Commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +21,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/gmarrtinss/Design-Patterns-Java-Spring.git",
+    "accountId": "596c786a-4837-479a-819a-665ca8dbee18"
+  }
+}]]></component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -57,17 +41,17 @@
     <option name="showLibraryContents" value="true" />
     <option name="showScratchesAndConsoles" value="false" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/gmart/Java-Basico-DIO/SpringPratice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gmart/Java-Basico-DIO/SpringPratice&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Test">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -105,6 +89,38 @@
       <option name="presentableId" value="Default" />
       <updated>1722186631393</updated>
     </task>
+    <task id="LOCAL-00001" summary="Primeiro Commit">
+      <option name="closed" value="true" />
+      <created>1722192746028</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722192746028</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Primeiro Commit">
+      <option name="closed" value="true" />
+      <created>1722192841713</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722192841713</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Primeiro Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Primeiro Commit" />
   </component>
 </project>
